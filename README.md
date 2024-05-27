@@ -1,2 +1,2 @@
 # probando-pull
-Repositorio probando git pull
+Repositorio para practicar git pull
